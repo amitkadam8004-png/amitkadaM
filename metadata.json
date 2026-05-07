@@ -1,0 +1,6 @@
+{
+  "name": "Tatkal Sprint - IRCTC Assistant",
+  "description": "A high-speed IRCTC Tatkal booking simulation and autofill assistant. Use the browser terminal scripts to prepare and speed up real bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
